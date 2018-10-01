@@ -1,0 +1,6 @@
+Uzywany do ogarniania komunikacji pomiedzy powiazanymi obiektami (Collegaus)
+
+Cala komunikacja jest przekazywana przez Mediator do Collegaues , nie musi wiedziec niczego o sobie
+
+GOF: Pozwala utracic polaczenie poprzez enkapsulacje w sposob ktory rozne obiekty oddzialywuja oraz komunikuja sie ze soba . 
+Pozwala na akcje kazdego obiektu w liscie na to aby sie roznily od siebie niezaleznie.

@@ -1,0 +1,14 @@
+kiedy chcemy aby wiele obiektow otrzymalo aktuazalizacje . Kiedy inny obiekt sie zmieni.
+
+np. Gielda papierow wartosciowcyh  z tysiacami papierow , musi wysylac zmiany do indywidualnych obiektow reprezentujacych papier wartosciowy. 
+np. The subject (publicsher) wysyla wiele papierow dla Obserwartorow 
+Obserwatorzy (subscribers) biora te ktore chca i ich uzywaja . 
+
+
+Wyobrazmy sobie subject or publisher obiekt ktory reprezentuje tysiace pojedynczych  papierow w gieldzie papierow wartosciowych ,
+jeseli chcemy wysylac zmiany dla wielu uzytkownikow korzystajacych z tych obiektow uzywamy Observer Pattern
+
+Loose coupling :
+    Publisher doesnt need to know about anything about the Observers(subsribers)
+
+Wady: The Subject (publisher) may send updates that don't matter to the Observer(subsriber);

@@ -1,0 +1,7 @@
+Sposob przechowywania stanow obiektow w latwy sposob 
+Memento : podstawowy obiekt jest przechowywany w roznych stanach 
+Originator  : Ustawia oraz Pobiera wartosci z odpowiednich targetow Memento. Tworzy 
+nowe Mementy orazp rzypisuje odpowiednie im wartosci
+
+CareTaker: Trzyma lista ktore zawiera wczesniej wersje of Memento.
+Mozne przechowywac i przekazywac Memento

@@ -1,0 +1,10 @@
+Rozdziela abstrakcje od implementacji wiec obie czesci moga zmiieniac sie / roznic sie od siebie niezaleznie
+Dodaje funkcjonalnosc w trakcie oddzielania glownych roznic uzwajac klas abstrakcyjnych
+
+Uzywa sie gdy
+Chcemy miec mozliwosc zmiany obu klas abstrakcyjnych / abstrakcji oraz stałych/concrete klas niezaleznie
+Kiedy chcemy zeby pierwsza abstrakcyjna klas opisywala zasady(Abstract TV)
+Concrete class addds additional rules.
+Klasa abstrakcyjna ma referencje do urzadzenia oraz opisuje abstrakcyjne metody ktore sa zdefiniowane(Abstract Remote)
+
+Klasa Concrete Remote opisuje abstrakyjne metody potrzebne

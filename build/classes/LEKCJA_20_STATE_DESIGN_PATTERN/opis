@@ -1,0 +1,4 @@
+Pozwala obiektowi na zmiane zachowania kiedy wewnetrzny stan zmiania sie . Obiekt pojawi sie do zmiany jego klasy.
+Context (konto): Zachowuje instancje Conretnego Stanu podklas ktora opisuje aktualny stan.
+Stan: Opisuje interfejs enkapsulujacy zachowanie powiazane z odpowiednim stanem Contextu..
+Concretny Stan: Kazda podklas implementuje zachowanie powiazane ze stanem Kontekstu.

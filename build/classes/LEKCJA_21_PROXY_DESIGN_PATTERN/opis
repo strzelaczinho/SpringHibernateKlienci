@@ -1,0 +1,3 @@
+Dostaracza klase ktora ogranicza dostep do innej klasy.
+Mozna to robic ze wzgledow bezpieczenstwo poniewaz obiekt wymaga duzego nakladu do jego stworzenia 
+lub jest dostepny z lokalizacji zdalnie kierowanej.

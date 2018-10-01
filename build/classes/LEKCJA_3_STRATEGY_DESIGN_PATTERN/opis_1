@@ -1,0 +1,16 @@
+Here is my Strategy design patterns tutorial.
+The pattern also allows you to eliminate code duplication. It separates behavior from super and subclasses.
+It is a super design pattern and is often the first one taught.
+All of the code follows the video to help you learn.
+
+Uzywa sie kiedy chcemy opisac klase ktora ma podobne zachowanie do zachowan w liscie . 
+Chce klase ktora moze np nie latac wcale , latac ze szkydlami , lub super szybko . Kiedy chce uzywac jedna z paru zachowan dynamicznie.
+
+Czesto redukuje dluga liste warunkow . Zapobiega duplikowaniu sie kodu , 
+zachowuje zmiany w klasach bez zmian w innych klasasch. 
+Moze schowac kod np . skomplikowany przed uzytkownikiem . 
+Wada: Duza ilosc obiektow / klas
+
+
+
+

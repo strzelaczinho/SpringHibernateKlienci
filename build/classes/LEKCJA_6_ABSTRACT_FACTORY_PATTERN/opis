@@ -1,0 +1,9 @@
+Wszystko jest enkapsulowane 
+Wykonuje rozkaz obiektowi
+Buduje obiekt 
+Finalne obiekty zawieraja obiekty ktore uzywaja wzorca Strategii. Kompozycja - Obiekty klasy pól sa obiektami.
+
+Pozwalaja na tworzenie rodzinnie powiazanych obiektow bez okreslenia konkretnej kasy 
+Uzywa sie w momencie gdy mamy wiele obiektow ktore moga byc dodawana lub zmieniane dynamicznie pdoczas pracy programu
+Mozna modelowac wszystko co sobie wyobrazisz i miec te obiekty ktore wspoldziałają ze wspolnymi interfejsami.
+Wady: Trudne.

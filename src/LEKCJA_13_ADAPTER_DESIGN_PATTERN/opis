@@ -1,0 +1,9 @@
+Pomaga w uzyciu 2 niekompatybilnych interfejsow do pracy razem . 
+Uzywany gdy klient oczekuje (potrzebnego) interfejsu
+Pozwala na uzyciu aktualnego interfensu oraz tego potrzebnego dodatkowego...
+Kazdza klasa moze pracowac razem tak dlugo dopoki Adapter rozwiazuje problem ktory wszystkie klasy musza 
+implementowac w kazdej metodzie opisanej przez wspolny interfejs
+
+Adapter zwykly ... kabel.Dostosowanie.
+
+np EnemyRobot nie stzrela , nie jezdzi - tylko biega i niszczy . Do tego aby mogl wspolpracowac z interfejsem potrzebny jest adapter

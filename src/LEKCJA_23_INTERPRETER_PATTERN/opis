@@ -1,0 +1,8 @@
+Normalnie jest ignorowany , prawie nigdy nie uzywany . 
+Potrzebna jest java Reflection do uzywania go . 
+Uzywa sie go do zmiany jednej reprezentacji informacji into another.
+
+Kontekst zawiera informacje ktore beda interpretowane . 
+The Expression jest abstrakcyjna klasa ktora opisuje wszystkie metody potrzebne do 
+wykonania roznych zmian.
+The Terminal or Conrete Expressions dostarczaja specyficznych zmian na roznych typach danych

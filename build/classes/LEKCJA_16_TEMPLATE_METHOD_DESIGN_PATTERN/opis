@@ -1,0 +1,4 @@
+ uzywany do tworzenia grup podklas ktore musze wykonywac podobne grupy metod
+Tworzymy abstrakcyjna klasa ktora zawiera metode nazwana Template Method
+Template Method zawiera serie metod ktore wykouja zadania kazdej podklasy dla obiektu
+Obiektu podklas moga przeciazac niektore zadania metod. 

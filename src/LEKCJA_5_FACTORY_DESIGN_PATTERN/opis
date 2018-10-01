@@ -1,0 +1,11 @@
+Kiedy metoda zwraca jedna z paru mozliwych  klas ktore dziela wspolna super klase . 
+Stworz nowa postac w grze.
+Randomowy generetaor numerow wybiera numer przypisany do specyficznego wroga
+Factory zwraca przeciwnika powiazanego z tym numerem .
+Klasa jest wybierana podczas run time, trwania programu
+
+Factory pattern uzywany jest kiedy nie wiemy w czasie jaki obiektu potrzebujemy
+Kiedy wszystkie potencjalne klasy sa takie same jak hierarchia podklas
+Zcentralizowac kod selekcji . 
+Kiedy nie chce aby uzytkownik wiedzial kazda podklase.
+Enkapsulowac kreacje obietkow 

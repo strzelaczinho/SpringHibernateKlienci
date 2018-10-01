@@ -1,0 +1,5 @@
+Zapewnia stały sposob dostepu do kolekcji roznych obiektow . Jesli 
+mamy tablie, liste , hashtable  obiektow - wyswietlamy iterator dla kazdego i traktujemy je tak samo 
+To zapewnia stały sposob przechodzia przez rozne kolekcje . 
+Mozna rowniez pisac polimorficzny kod dlatego mozesz referowac dla kazdej kolekcji obiektow poniwez 
+beda one implementowac te same interfejsy 

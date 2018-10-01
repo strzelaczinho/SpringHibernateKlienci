@@ -1,0 +1,7 @@
+Pozwala na modyfikowanie obiektow dynamicznie 
+Uzywa sie kiedy chcemy mozliwosci dziedziczenia podklas , ale chcemy dodac funkcjonalnosc podczas pracy rpogramu
+jest bardziej elastyczna od dziedziczenia.
+uprszacza kod poniewaz dodawanie funkcjonalnosci uzywa wielu prostych klas
+lepsze od przepisywania kodu ktory moze rozszezrzyc funkcjonlanosc
+
+Kompozycje sa dynamiczne dodaja funkcjonalnosci

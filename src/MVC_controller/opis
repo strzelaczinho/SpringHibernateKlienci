@@ -1,0 +1,7 @@
+Kompletnie oddziela kalkulacje oraz interfejsy od siebie
+Model : Data i metody uzywane do pracy z nim
+View : Interfejs
+Controller: Kordynuje interakcje pomiedzy Widokiem i Modelem.
+
+
+

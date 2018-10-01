@@ -1,0 +1,7 @@
+uzywa sie do uzywania obiektow ze stosu innych obiektow 
+
+Kiedy chcemy budowac obiekt z obiektow zbudowanych z innych obiektow.
+Kiedy kreaowanie obiektu z tych czesci musi byc niezalezne od glownego obiektu
+
+Schowac kreacje tych obiektow przed klientem zeby oba nie byly zalezne
+Builder zna zaleznosci i nikt inny 

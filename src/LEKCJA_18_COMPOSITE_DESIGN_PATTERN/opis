@@ -1,0 +1,4 @@
+Pozwala na traktowania indywidualnych obiektow oraz kompozycji obiektow stale 
+Pozwalaja na reprezentowania czesciowo - calych hierarchii . 
+Komponenety moga byyc dalej dzielone na mniejsze komponenty 
+Mozna kształtować, organizować, konstruować dane , lub reprezentowac wewnetrzene dzialanie kazdej czesci calego obiektu indywidualnie

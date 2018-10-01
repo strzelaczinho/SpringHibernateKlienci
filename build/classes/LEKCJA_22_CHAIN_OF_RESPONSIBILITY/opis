@@ -1,0 +1,4 @@
+Wysyla dane na obiekt oraz jesli obiekt nie moze ich uzywac wysylac je do jakiegokolwiek innego numeru innych obiektow ktore moga 
+miec mozliwosc uzywania tych danych
+Tworzy 4 obiekty kore moga dodawac , odejmowac , mnozyc , dzielic . 
+Wysyla 2 numery oraz rozkaz w celu pozwolenie 4 obiektom decydowac ktory moge sie zajac prosba kalkulacji

@@ -1,0 +1,4 @@
+uzywa sie do tworzenia obiektow instacji poprzez kloniwanie innych obiektow.
+Pozwala na dodanie jakiegokolwiek obiektu instacji podklasy znanej superklasy w czasie trwania programu.
+Kiedy sa niezliczone potencjalne obiektu ktore chca tylko byc uzywane kiedy jest do tego potrzeba.
+Obniza potrzebe tworzenia obiektow podklas

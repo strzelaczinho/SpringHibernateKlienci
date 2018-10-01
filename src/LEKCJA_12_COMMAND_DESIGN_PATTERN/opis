@@ -1,0 +1,16 @@
+To jest behavioural design pattern ktory jako obiekt jest uzywany do reprezentowania i enkapsulowania informacji potrzebnych 
+do wołania metod w pozniejszym czasie. 
+
+Ta informacja zawiera nazwy metod , obiekty ktore posiadaja metody oraz wartosci dla parametrow metods
+pozwala na przetrzymywanie list kodu ktore wykonywalne w pozniejszym czasie sa wieokrotnie
+
+Klient mowi ze chce spcyficzny Rozkaz do wykonania (z kodu enkapsulowanego) . 
+Obiekt wola Invoker przepuszcza rozkaz do nastepnego obiektu a Reciver wykonuje porzebny kod.
+
+TurnTVOn - DeviceButton - TurnTVOn . Television.TurnTVOn.
+
+
+Klasa to znakomite miejsce do przetrzymywania procedur ktore chcesz wykonac 
+Mozna przetrzymywac wiele komend w klasie ktorych uzywa sie od nowa od nowa.
+Mozna implementowac pod procedurami dla pozniejszych rozkazow 
+Tworzysz wiele małych klas ktore pzrtrzymuja liste rozkazow s
