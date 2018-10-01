@@ -10,6 +10,7 @@
 <project name="Dereck_WZORCE_PROJEKTOWE" default="default" basedir=".">
     <description>Builds, tests, and runs the project Dereck WZORCE PROJEKTOWE.</description>
     <import file="nbproject/build-impl.xml"/>
+	<!-- hey ho--> 
     <!--
 
     There exist several targets which are by default empty and which can be 
